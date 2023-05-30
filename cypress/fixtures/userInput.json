@@ -1,0 +1,6 @@
+{
+    "email" : "practice123student@gmail.com",
+    "password" : "Student@123", 
+    "wrongEmail" : "sri@gmail.com",
+    "wrongPassword" : "Sri@123"
+}
